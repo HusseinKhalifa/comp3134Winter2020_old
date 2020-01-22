@@ -1,0 +1,4 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# traceroute 159.89.119.251
+traceroute to 159.89.119.251 (159.89.119.251), 30 hops max, 60 byte packets
+ 1  lamp-s-1vcpu-1gb-tor1-01 (159.89.119.251)  0.047 ms  0.012 ms  0.009 ms
+

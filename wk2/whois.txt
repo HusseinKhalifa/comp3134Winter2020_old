@@ -1,0 +1,276 @@
+Whois Record for GeorgeBrown.ca
+===============================
+Domain Information
+Domain:georgebrown.ca
+Registrar:Webnames.ca Inc.
+Registered On:2002-07-04
+Expires On:2020-07-04
+Updated On:2019-10-26
+Status:clientTransferProhibited
+Name Servers:ns1.d-zone.ca
+ns1.georgebrown.ca
+ns2.d-zone.ca
+ns2.georgebrown.ca
+
+Registrant Contact
+Name:George Brown College (Toronto)
+Street:P.O. Box 1015 Station B
+City:Toronto
+State:ON
+Postal Code:M5T2T9
+Country:CA
+Phone:+1.4164155000
+Fax:+1.4164154667
+Email:arien@georgebrown.ca
+
+Administrative Contact
+Name:Andrew Riem
+Organization:George Brown College
+Street:P.O. Box 1015 Station B
+City:Toronto
+State:ON
+Postal Code:M5T2T9
+Country:CA
+Phone:+1.4164155000
+Fax:+1.4164154667
+Email:arien@georgebrown.ca
+
+Technical Contact
+Name:Dorin Grunberg
+Organization:George Brown College
+Street:P.O. Box 1015 Station B
+City:Toronto
+State:ON
+Postal Code:M5T2T9
+Country:CA
+Phone:+1.4164155000
+Fax:+1.4164154836
+Email:dgrunberg@georgebrown.ca
+
+
+
+
+Whois Record for Whois Record for Google.com
+============================================
+Domain Information
+Domain:google.com
+Registrar:MarkMonitor Inc.
+Registered On:1997-09-15
+Expires On:2028-09-13
+Updated On:2019-09-09
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+
+Registrant Contact
+Organization:Google LLC
+State:CA
+Country:US
+Email:Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+
+Administrative Contact
+Organization:Google LLC
+State:CA
+Country:US
+Email:Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+
+Technical Contact
+Organization:Google LLC
+State:CA
+Country:US
+Email:Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+
+
+
+Whois Record for Whois Record for hotmail.com
+=============================================
+Domain Information
+Domain:hotmail.com
+Registrar:MarkMonitor Inc.
+Registered On:1996-03-27
+Expires On:2021-03-27
+Updated On:2014-10-09
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.msft.net
+ns2.msft.net
+ns3.msft.net
+ns4.msft.net
+
+Registrant Contact
+Name:Domain Administrator
+Organization:Microsoft Corporation
+Street:One Microsoft Way,
+City:Redmond
+State:WA
+Postal Code:98052
+Country:US
+Phone:+1.4258828080
+Fax:+1.4259367329
+Email:domains@microsoft.com
+
+Administrative Contact
+Name:Domain Administrator
+Organization:Microsoft Corporation
+Street:One Microsoft Way,
+City:Redmond
+State:WA
+Postal Code:98052
+Country:US
+Phone:+1.4258828080
+Fax:+1.4259367329
+Email:domains@microsoft.com
+
+Technical Contact
+Name:MSN Hostmaster
+Organization:Microsoft Corporation
+Street:One Microsoft Way,
+City:Redmond
+State:WA
+Postal Code:98052
+Country:US
+Phone:+1.4258828080
+Fax:+1.4259367329
+Email:msnhst@microsoft.com
+
+
+
+
+Whois Record for Whois Record for facebook.com
+==============================================
+Domain Information
+Domain:facebook.com
+Registrar:RegistrarSafe, LLC
+Registered On:1997-03-29
+Expires On:2028-03-30
+Updated On:2020-01-15
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:a.ns.facebook.com
+b.ns.facebook.com
+c.ns.facebook.com
+d.ns.facebook.com
+
+Registrant Contact
+Name:Domain Admin
+Organization:Facebook, Inc.
+Street:1601 Willow Rd
+City:Menlo Park
+State:CA
+Postal Code:94025
+Country:US
+Phone:+1.6505434800
+Fax:+1.6505434800
+Email:domain@fb.com
+
+Administrative Contact
+Name:Domain Admin
+Organization:Facebook, Inc.
+Street:1601 Willow Rd
+City:Menlo Park
+State:CA
+Postal Code:94025
+Country:US
+Phone:+1.6505434800
+Fax:+1.6505434800
+Email:domain@fb.com
+
+Technical Contact
+Name:Domain Admin
+Organization:Facebook, Inc.
+Street:1601 Willow Rd
+City:Menlo Park
+State:CA
+Postal Code:94025
+Country:US
+Phone:+1.6505434800
+Fax:+1.6505434800
+Email:domain@fb.com
+
+
+Whois Record for Whois Record for yahoo.ca
+==========================================
+Domain Information
+Domain:yahoo.ca
+Registrar:MarkMonitor International Canada Ltd.
+Registered On:2000-10-04
+Expires On:2020-09-21
+Updated On:2019-12-04
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.yahoo.com
+ns2.yahoo.com
+ns3.yahoo.com
+ns5.yahoo.com
+ns7.yahoo.com
+
+Registrant Contact
+Name:Oath (Canada) Corp.
+Street:99 Spadina Ave., Suite 200 & 300
+City:Toronto
+State:ON
+Postal Code:M5V3P8
+Country:CA
+Phone:+1.4162638100
+Fax:+1.4162638100
+Email:domain-admin@oath.com
+
+Administrative Contact
+Name:Andres Lorca
+Organization:Oath (Canada) Corp.
+Street:99 Spadina Ave., Suite 200
+City:Toronto
+State:ON
+Postal Code:M5V3P8
+Country:CA
+Phone:+1.4162638100
+Fax:+1.4162638100
+Email:domain-admin@oath.com
+
+Technical Contact
+Name:Andres Lorca
+Organization:Oath (Canada) Corp.
+Street:99 Spadina Ave., Suite 200
+City:Toronto
+State:ON
+Postal Code:M5V3P8
+Country:CA
+Phone:+1.4162638100
+Fax:+1.4162638100
+Email:domain-admin@oath.com
+
+Billing Contact
+Name:CCOPS Billing
+Organization:MarkMonitor Inc.
+Street:3540 East Longwing Lane, Suite 300
+City:Meridian
+State:ID
+Postal Code:83646
+Country:US
+Phone:+1.2083895740
+Fax:+1.2083895771
+Email:ccopsbilling@markmonitor.com
+
+
+
+
+

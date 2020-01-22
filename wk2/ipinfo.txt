@@ -1,0 +1,53 @@
+cnn.com
+=======
+Checking Domain Name
+Domain Name: cnn.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+IP Address: 151.101.193.67
+Geolocation: US (United States), CA, California, 94107 San Francisco 
+
+
+cbs.com
+=======
+Checking Domain Name
+Domain Name: cbs.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+IP Address: 35.227.235.238
+Geolocation: US (United States), CA, California, 94043 Mountain View - Google Maps
+
+
+tdbank.com
+==========
+Checking Domain Name
+Domain Name: tdbank.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+IP Address: 23.79.216.105
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge 
+
+
+cibc.com
+========
+Checking Domain Name
+Domain Name: cibc.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+IP Address: 104.107.1.12
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge
+
+
+rbcroyalbank.com
+================
+Checking Domain Name
+Domain Name: rbcroyalbank.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+IP Address: 204.74.99.100
+Geolocation: US (United States), CA, California, 94401 San Mateo

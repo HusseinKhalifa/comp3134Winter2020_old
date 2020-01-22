@@ -1,0 +1,32 @@
+husse@DESKTOP-I0B4V98 MINGW64 /d
+$ ping 159.89.119.251
+
+Pinging 159.89.119.251 with 32 bytes of data:
+Reply from 159.89.119.251: bytes=32 time=3ms TTL=55
+Reply from 159.89.119.251: bytes=32 time=3ms TTL=55
+Reply from 159.89.119.251: bytes=32 time=3ms TTL=55
+Reply from 159.89.119.251: bytes=32 time=3ms TTL=55
+
+Ping statistics for 159.89.119.251:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+
+ping 159.89.119.251 -w 10
+
+C:\Windows\system32>ping 159.89.119.251 -w 10
+
+Pinging 159.89.119.251 with 32 bytes of data:
+Reply from 159.89.119.251: bytes=32 time=5ms TTL=55
+Reply from 159.89.119.251: bytes=32 time=5ms TTL=55
+Reply from 159.89.119.251: bytes=32 time=4ms TTL=55
+Reply from 159.89.119.251: bytes=32 time=4ms TTL=55
+
+Ping statistics for 159.89.119.251:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 5ms, Average = 4ms
+	
+	
+	

@@ -1,0 +1,16 @@
+
+C:\Windows\system32>tracert 159.89.119.251
+
+Tracing route to 159.89.119.251 over a maximum of 30 hops
+
+  1     1 ms     3 ms     2 ms  mynetwork [192.168.2.1]
+  2     4 ms     6 ms     5 ms  lnsm3-torontoxn_lo0.net.bell.ca [64.230.11.217]
+  3     *        4 ms     4 ms  tcore2-torontoxn_et-0/1/5_.net.bell.ca [64.230.96.190]
+  4     4 ms     4 ms    14 ms  bx1-torontoxn_et4-0-0.net.bell.ca [64.230.97.159]
+  5     4 ms     3 ms     4 ms  ix-ae-9-0.tcore2.tnk-toronto.as6453.net [63.243.172.25]
+  6     4 ms     4 ms     4 ms  63.243.172.34
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     5 ms     4 ms     4 ms  159.89.119.251
+
+Trace complete.

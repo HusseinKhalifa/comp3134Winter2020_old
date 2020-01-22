@@ -1,0 +1,129 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap GeorgeBrown.ca
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 03:20 UTC
+Nmap scan report for GeorgeBrown.ca (198.96.86.202)
+Host is up (0.00093s latency).
+rDNS record for 198.96.86.202: transferguide.georgebrown.ca
+Not shown: 988 filtered ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+443/tcp   open  https
+445/tcp   open  microsoft-ds
+3389/tcp  open  ms-wbt-server
+7937/tcp  open  nsrexecd
+7938/tcp  open  lgtomapper
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 37.37 seconds
+
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap Google.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 03:22 UTC
+Nmap scan report for Google.com (172.217.164.206)
+Host is up (0.0010s latency).
+Other addresses for Google.com (not scanned): 2607:f8b0:400b:808::200e
+rDNS record for 172.217.164.206: yyz12s04-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 18.11 seconds
+
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap hotmail.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 03:23 UTC
+Nmap scan report for hotmail.com (204.79.197.212)
+Host is up (0.011s latency).
+rDNS record for 204.79.197.212: a-0010.a-msedge.net
+Not shown: 997 filtered ports
+PORT    STATE  SERVICE
+53/tcp  closed domain
+80/tcp  open   http
+443/tcp open   https
+
+Nmap done: 1 IP address (1 host up) scanned in 17.24 seconds
+
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap facebook.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 03:24 UTC
+Nmap scan report for facebook.com (31.13.80.36)
+Host is up (0.00048s latency).
+Other addresses for facebook.com (not scanned): 2a03:2880:f10e:83:face:b00c:0:25de
+rDNS record for 31.13.80.36: edge-star-mini-shv-01-yyz1.facebook.com
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE
+80/tcp   open   http
+443/tcp  open   https
+843/tcp  closed unknown
+5222/tcp closed xmpp-client
+
+Nmap done: 1 IP address (1 host up) scanned in 17.51 seconds
+
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 21 GeorgeBrown.ca
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 03:27 UTC
+Nmap scan report for GeorgeBrown.ca (198.96.86.202)
+Host is up (0.0018s latency).
+rDNS record for 198.96.86.202: assessment.georgebrown.ca
+
+PORT   STATE SERVICE
+21/tcp open  ftp
+
+Nmap done: 1 IP address (1 host up) scanned in 0.47 seconds
+
+
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 21-30 GeorgeBrown.ca
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 03:29 UTC
+Nmap scan report for GeorgeBrown.ca (198.96.86.202)
+Host is up (0.0016s latency).
+rDNS record for 198.96.86.202: assessment.georgebrown.ca
+
+PORT   STATE    SERVICE
+21/tcp open     ftp
+22/tcp filtered ssh
+23/tcp filtered telnet
+24/tcp filtered priv-mail
+25/tcp filtered smtp
+26/tcp filtered rsftp
+27/tcp filtered nsw-fe
+28/tcp filtered unknown
+29/tcp filtered msg-icp
+30/tcp filtered unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 1.47 seconds
+
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -F georgebrown.ca
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 03:30 UTC
+Nmap scan report for georgebrown.ca (198.96.86.202)
+Host is up (0.0013s latency).
+rDNS record for 198.96.86.202: assessment.georgebrown.ca
+Not shown: 90 filtered ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+443/tcp   open  https
+445/tcp   open  microsoft-ds
+3389/tcp  open  ms-wbt-server
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 4.62 seconds
+
+
