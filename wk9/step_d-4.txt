@@ -1,0 +1,4 @@
+What you see on the browser?
+This page is showing that you can traverse to folders even when it is the folder before the web root
+What sensitive information is given by this page?
+There are lots of sensitive information from this page in this page, for example: attacker may go to the mail folder, which possible the mail server of the application
