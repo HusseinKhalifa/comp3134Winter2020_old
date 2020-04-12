@@ -1,0 +1,3 @@
+%2e%2e%2f = ../
+navigates up one folder, showing folders and files inside 'www'
+

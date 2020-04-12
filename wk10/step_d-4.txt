@@ -1,0 +1,1 @@
+The browser is returning an array of all the folders/files inside of the var folder. 

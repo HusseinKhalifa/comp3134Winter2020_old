@@ -1,0 +1,2 @@
+Set header tags inside of echo " "
+Make comment a PHP comment by adding # instead of <!-- -->

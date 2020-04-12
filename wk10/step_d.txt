@@ -1,0 +1,2 @@
+A warning is displayed stating that no file or directory is found with the name "hello". 
+The browser is returning the folder structure found in the droplet, which is sensitive information. 
