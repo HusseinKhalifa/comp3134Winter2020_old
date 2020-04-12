@@ -1,0 +1,53 @@
+14:06:15.432396 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74536392:74536604, ack 44857, win 501, options [nop,nop,TS val 2984313166 ecr 2095717010], length 212
+14:06:15.432465 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74536604:74536816, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.432533 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74536816:74537028, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.432615 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74537028:74537240, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.432683 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74537240:74537452, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.432746 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74537452:74537664, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.432806 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74537664:74537876, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.432871 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74537876:74538088, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.432937 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74538088:74538300, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.433000 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74538300:74538512, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.433077 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74538512:74538724, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.433133 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74538724:74538936, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.433185 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74538936:74539148, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.433235 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74539148:74539360, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.433322 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74539360:74539572, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.433401 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74539572:74539784, ack 44857, win 501, options [nop,nop,TS val 2984313167 ecr 2095717010], length 212
+14:06:15.433476 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74539784:74539996, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.433546 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74539996:74540208, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.433600 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74540208:74540420, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.433652 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74540420:74540632, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.433721 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74540632:74540844, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.433774 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74540844:74541056, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.433824 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74541056:74541268, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.433873 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74541268:74541480, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.433923 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74541480:74541692, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.433995 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74541692:74541904, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.434064 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74541904:74542116, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.434136 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74542116:74542328, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.434196 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74542328:74542540, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.434278 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74542540:74542752, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.434334 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74542752:74542964, ack 44857, win 501, options [nop,nop,TS val 2984313168 ecr 2095717010], length 212
+14:06:15.434441 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74542964:74543176, ack 44857, win 501, options [nop,nop,TS val 2984313169 ecr 2095717010], length 212
+14:06:15.434525 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74543176:74543388, ack 44857, win 501, options [nop,nop,TS val 2984313169 ecr 2095717010], length 212
+14:06:15.434605 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74543388:74543600, ack 44857, win 501, options [nop,nop,TS val 2984313169 ecr 2095717010], length 212
+14:06:15.434685 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74543600:74543812, ack 44857, win 501, options [nop,nop,TS val 2984313169 ecr 2095717010], length 212
+14:06:15.434763 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74543812:74544024, ack 44857, win 501, options [nop,nop,TS val 2984313169 ecr 2095717010], length 212
+14:06:15.434799 IP 198.96.84.204.42798 > LAMP-Stack.ssh: Flags [.], ack 74495724, win 812, options [nop,nop,TS val 2095717019 ecr 2984313154], length 0
+14:06:15.434837 IP 198.96.84.204.42798 > LAMP-Stack.ssh: Flags [.], ack 74496996, win 812, options [nop,nop,TS val 2095717019 ecr 2984313155], length 0
+14:06:15.434946 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74544024:74544540, ack 44857, win 501, options [nop,nop,TS val 2984313169 ecr 2095717019], length 516
+14:06:15.435052 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74544540:74544752, ack 44857, win 501, options [nop,nop,TS val 2984313169 ecr 2095717019], length 212
+14:06:15.435093 IP 198.96.84.204.42798 > LAMP-Stack.ssh: Flags [.], ack 74498692, win 812, options [nop,nop,TS val 2095717019 ecr 2984313155], length 0
+14:06:15.435114 IP 198.96.84.204.42798 > LAMP-Stack.ssh: Flags [.], ack 74500176, win 812, options [nop,nop,TS val 2095717019 ecr 2984313156], length 0
+14:06:15.435220 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74544752:74545268, ack 44857, win 501, options [nop,nop,TS val 2984313169 ecr 2095717019], length 516
+14:06:15.435305 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 74545268:74545480, ack 44857, win 501, options [nop,nop,TS val 2984313169 ecr 2095717019], length 212
+14:06:15.435361 IP 198.96.84.204.42798 > LAMP-Stack.ssh: Flags [.], ack 74501660, win 812, options [nop,nop,TS val 2095717019 ecr 2984313156], length 0
+14:06:15.435383 IP 198.96.84.204.42798 > LAMP-Stack.ssh: Flags [.], ack 74503144, win 812, options [nop,nop,TS val 2095717019 ecr 2984313157], length 0
+14:06:15.435393 IP 198.96.84.204.42798 > LAMP-Stack.ssh: Flags [.], ack 74504628, win 812, options [nop,nop,TS val 2095717019 ecr 2984313157], length 0
+14:06:15.435400 IP 198.96.84.204.42798 > LAMP-Stack.ssh: Flags [.], ack 74506112, win 812, options [nop,nop,TS val 2095717019 ecr 2984313157], length 0
+^C
+361480 packets captured
+379136 packets received by filter
+17649 packets dropped by kernel
+

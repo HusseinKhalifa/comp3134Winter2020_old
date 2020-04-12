@@ -1,0 +1,17 @@
+root@LAMP-Stack:~# tcpdump -c 10 -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+14:08:42.724456 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 1143350628:1143350736, ack 4051616432, win 501, options [nop,nop,TS val 2984460456 ecr 2095864304], length 108
+14:08:42.724527 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 108:144, ack 1, win 501, options [nop,nop,TS val 2984460456 ecr 2095864304], length 36
+14:08:42.724590 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 144:252, ack 1, win 501, options [nop,nop,TS val 2984460456 ecr 2095864304], length 108
+14:08:42.724639 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 252:288, ack 1, win 501, options [nop,nop,TS val 2984460456 ecr 2095864304], length 36
+14:08:42.725367 IP LAMP-Stack.40472 > 67.207.67.2.domain: 6071+ [1au] PTR? 204.84.96.198.in-addr.arpa. (55)
+14:08:42.726887 IP 67.207.67.2.domain > LAMP-Stack.40472: 6071 NXDomain 0/1/1 (120)
+14:08:42.726971 IP 198.96.84.204.42798 > LAMP-Stack.ssh: Flags [.], ack 108, win 812, options [nop,nop,TS val 2095864311 ecr 2984460456], length 0
+14:08:42.728808 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 544:740, ack 1, win 501, options [nop,nop,TS val 2984460460 ecr 2095864311], length 196
+14:08:42.728932 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 776:972, ack 1, win 501, options [nop,nop,TS val 2984460460 ecr 2095864311], length 196
+14:08:42.729058 IP LAMP-Stack.ssh > 198.96.84.204.42798: Flags [P.], seq 1008:1204, ack 1, win 501, options [nop,nop,TS val 2984460460 ecr 2095864311], length 196
+10 packets captured
+26 packets received by filter
+15 packets dropped by kernel
+
