@@ -1,0 +1,9 @@
+1) Observation: Since the value of the active field of user Ben is 0, the query cannot find any result.
+Are they as expected? Yes, it is
+
+2) When I type Ben'-- into the form
+Because two dashes mean to start a comment in MySQl, it will comment out the second part of the query which is the AND active=1 part. Therefore, although user Ben does have the active field of 1, it still retrieve user Ben as a result.
+
+3) When I type Ben' or 1=1
+This input will the query and display all the records which either have firstname equal to Ben or have the active=1 (as stated in the picture Benor1=1.png) in the database because 1=1 is always true. The ' will close the first part which is firstname='Ben' and 1=1 is always true. Therefore, the query logic is broken here.
+
